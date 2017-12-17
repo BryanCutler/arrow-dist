@@ -1,11 +1,11 @@
 {
     "package": {
         "name": "pyarrow",
-        "repo": "apache-arrow-test",
-        "subject": "wesm"
+        "repo": "apache-arrow",
+        "subject": "cutlerb"
     },
     "version": {
-        "name": "0.7.1"
+        "name": "0.8.0"
     },
     "files": [
         {
