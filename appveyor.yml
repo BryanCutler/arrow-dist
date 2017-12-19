@@ -33,7 +33,7 @@ environment:
   BOOST_LIBRARYDIR: C:\Libraries\boost_1_63_0\lib64-msvc-14.0
   pyarrow_version: 0.8.0
   pyarrow_commit: 1d689e5a3e417d3a4b3de16fea7a6fe195c8f8df
-  parquet_commit: 6ab16f3ae8e4a76ea28a704d88267bb342ba407b
+  parquet_commit: e2814ccb224a01289ad3a736ce89a956cb7d52fb
 
 init:
   - set MINICONDA=C:\Miniconda35-x64
